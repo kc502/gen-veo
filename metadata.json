@@ -1,0 +1,5 @@
+{
+  "name": "VEO Video Generator",
+  "description": "A web application to generate videos using Google's VEO model via the Gemini API. Users can provide their own API key, write a prompt, and select generation options to create video content.",
+  "requestFramePermissions": []
+}
